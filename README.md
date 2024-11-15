@@ -13,7 +13,7 @@ Scikit-learn==1.3.2
 
 ## Try it Out
 We provide a demonstration example based on dataset ACIC2016. Specifically,
-please first clone the code from https://github.com/gloriousmong/DDRN-CFR.git to your local machine, and execute the following command:
+please first clone the code from https://github.com/gloriousmong/DDRN.git to your local machine, and execute the following command:
 
 >cd ..\
 >python run.py
